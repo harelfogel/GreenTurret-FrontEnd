@@ -1,0 +1,21 @@
+.inputField {
+    border-radius: 8px;
+}
+
+.sendButton {
+    opacity: 0.8;
+    border-radius: 8px;
+}
+
+.chatPreview {
+    background-color: #e9e4e4; /* Light grey background */
+    border-radius: 8px;
+}
+
+.horizontalLine{
+    opacity: 0.3;
+    margin:0.3rem;
+    border:none;
+    height:1px;
+    background-color: #c4bebe;
+}
